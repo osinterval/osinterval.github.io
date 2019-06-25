@@ -26,10 +26,6 @@ footer {
   margin: 0 auto;
 }
 
-.author_branch {
-  display: none;
-}
-
 @media screen and (max-width: 959px) {
   body {
     background: yellow;
