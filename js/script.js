@@ -1,5 +1,3 @@
 /*script*/
-active = document.getElementById('active');
-active.onclick = function() {
-    alert('you click na home');
-};
+active_button = document.getElementById('active_button');
+active_button.onclick = function() {alert('hello');};
